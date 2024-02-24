@@ -10,8 +10,8 @@ h1, p {
 }
 /*ID Selector*/
 #profile {
-		height: 250px;
-		width: 250px;
+		height: 210px;
+		width: 200px;
 		border-radius: 50%;
 }
 
